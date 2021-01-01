@@ -1,0 +1,10 @@
+{
+  "title": "Isaiah Toystore",
+  "headline": "Isaiah's Pick of the Month",
+  "subline": "Purchase toys specially curated by Isaiah",
+  "sr-legal-text": "Quantity (max 10)",
+  "button": {
+    "submit2": "Buy for {{total}}"
+  },
+  "button-text": "Buy for {{total}}"
+}
